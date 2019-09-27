@@ -33,6 +33,8 @@ hystric dashboard/hystrix
 cercuit breaker
 hateos
 
+Blue-Green Deployment
+
 
 Note: Kafka, MQ,AZZure
 
