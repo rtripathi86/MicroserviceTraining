@@ -151,3 +151,9 @@ docker run        : put in container with ip and port number\
 docker pull       : pull image
 docker push <dockerHubId>  :docker hub -client environement[OpenShift,AWS,Azure]
 
+
+
+Design pattern --
+ambasder
+sidecar
+saga
